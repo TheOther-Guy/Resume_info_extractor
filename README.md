@@ -8,4 +8,5 @@ https://spacy.io/usage
 also we need to do 3 things within the local directory
 1- creating 2 folders resumes folder, and output folder
 2- inside output folder we create 2 folders csv folder, and txt folder
-
+3- got to https://github.com/pdfminer/pdfminer.six/blob/develop/tools/pdf2txt.py
+and safe the file in your project loacal folder 
